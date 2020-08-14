@@ -1,3 +1,7 @@
+This fork works fine with Raspberry Pi 4 (checked)
+
+***
+
 RaspiWiFi
 
 RaspiWiFi is a program to headlessly configure a Raspberry Pi's WiFi
